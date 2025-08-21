@@ -4,6 +4,7 @@
 using namespace std;
 
 int32_t main(){
+    //aselole
     rafiieeyy;
     int a, b;
     cin >> a >> b;
