@@ -1,7 +1,10 @@
 {
-    "files.associations": {
-        "*.embeddedhtml": "html",
-        "ostream": "cpp",
-        "iostream": "cpp"
-    }
+	"files.associations": {
+		"*.embeddedhtml": "html",
+		"ostream": "cpp",
+		"iostream": "cpp"
+	},
+	"[cpp]": {
+		"editor.defaultFormatter": "ms-vscode.cmake-tools"
+	}
 }
