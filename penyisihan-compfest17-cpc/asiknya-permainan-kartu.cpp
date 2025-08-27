@@ -11,9 +11,7 @@ void entryKartu(vector<int>& a, vector<int>& b, int count){
     for (int i = 0; i < count; i++){
         cin >> b[i];
     }
-    
 }
-
 void winKartu(vector<int> a, vector<int> b, int count, int& ansChanek, int& ansGanesh){
     for (int i = 0; i < count; i++){
         if (a[i] > b[i]){
